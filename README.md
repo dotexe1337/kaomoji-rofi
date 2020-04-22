@@ -5,8 +5,6 @@ Rofi script for typing kaomojis. Types kaomojis and copies them into your clipbo
 Originally by Ceda EI, forked by dotexe.
 Modified to split on spaces so you only get the Kaomojis copied to clipboard, and not the spaces and names of them.
 
-![Kaomoji Rofi Preview](ss.png)
-
 ## Requirements
 
 + `rofi`
