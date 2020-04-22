@@ -1,6 +1,10 @@
-# Kaomoji Rofi
+# Kaomoji Rofi (dotexe fork)
 
 Rofi script for typing kaomojis. Types kaomojis and copies them into your clipboard.
+
+Originally by Ceda EI, forked by dotexe.
+Modified to split on spaces so you only get the Kaomojis copied to clipboard, and not the spaces and names of them.
+
 ![Kaomoji Rofi Preview](ss.png)
 
 ## Requirements
@@ -11,7 +15,7 @@ Rofi script for typing kaomojis. Types kaomojis and copies them into your clipbo
 
 ## Installation
 
-+ `git clone https://gitlab.com/ceda_ei/kaomoji-rofi`
++ `git clone https://github.com/original-dotexe/kaomoji-rofi`
 + Add a keybinding to run `/path/where/you/cloned/kaomoji-rofi/kaomoji.sh`
 
 ## Configuration
