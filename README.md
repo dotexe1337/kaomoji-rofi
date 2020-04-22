@@ -1,5 +1,6 @@
 # Kaomoji Rofi (dotexe fork)
 Rofi script for typing kaomojis. Types kaomojis and copies them into your clipboard.
+
 This program is licensed under the GNU General Public License (GPL) v3. For more information, please read LICENSE.md.
 
 ## Requirements
