@@ -18,5 +18,4 @@ Modified to split on spaces so you only get the Kaomojis copied to clipboard, an
 
 ## Configuration
 
-All options passed to kaomoji.sh are passed to rofi. The screenshot has been
-taken with the following command. `kaomoji.sh -config config -theme some_theme.rasi`
+All options passed to kaomoji.sh are passed to rofi.`
