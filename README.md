@@ -13,4 +13,4 @@ This program is licensed under the GNU General Public License (GPL) v3. For more
 + Add a keybinding to run `/path/where/you/cloned/kaomoji-rofi/kaomoji.sh`
 
 ## Configuration
-All options passed to kaomoji.sh are passed to rofi.`
+All options passed to kaomoji.sh are passed to rofi.
